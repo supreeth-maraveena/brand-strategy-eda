@@ -1,3 +1,8 @@
+The below information is the report that is generatede after a simple exploratory data analysis of the products dataset provided by ASOS.
+
+
+---
+
 # Brand Strategy Analysis Report
 
 ## 1. Objective
